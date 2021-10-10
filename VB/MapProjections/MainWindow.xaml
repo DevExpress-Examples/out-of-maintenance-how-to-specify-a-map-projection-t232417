@@ -31,6 +31,7 @@
                 <dxm:MillerProjection/>
                 <dxm:SinusoidalProjection/>
                 <dxm:SphericalMercatorProjection/>
+                <dxm:Etrs89LambertAzimuthalEqualAreaProjection/>
             </ListBox>
         </StackPanel>
     </Grid>
